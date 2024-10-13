@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omidvari</h1>
-<h3 align="center">A passionate developer from Germany</h3>
+<h3 align="center">A passionate developer </h3>
 <img align="right" alt="omidvari" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omidprogramm&label=Profile%20views&color=0e75b6&style=flat" alt="omidprogramm" /> </p>
 
