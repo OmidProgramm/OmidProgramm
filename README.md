@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omidvari</h1>
-<p>Web developer with a strong focus on backend development using PHP and MySQL, and solid experience in modern frontend technologies.  
-I care about clean architecture, maintainable code, and building practical solutions rather than demo-only projects.</p>
+<p>Web developer with strong experience in JavaScript, React, PHP, and MySQL, building modern web applications and APIs.  
+I focus on clean architecture, maintainable code, and practical solutions rather than demo-only projects.
+</p>
 <h3 align="center">A passionate developer </h3>
 <img align="right" alt="omidvari" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omidprogramm&label=Profile%20views&color=0e75b6&style=flat" alt="omidprogramm" /> </p>
